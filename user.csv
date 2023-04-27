@@ -1,0 +1,11 @@
+mr_no,patient_fname,patient_lname,Blood group,Age,Weight,gender,heart_diseases,liver_diseases,diabetes_diseases,parkinsons_diseases
+m453,Ahmed,Khan,A+,23,45kg,male,no,no,no,no
+m321,Ali,Eijaz,B-,56,64kg,male,no,no,no,no
+m123,Fatimah,Zaidi,B-,31,52kg,female,no,no,no,no
+m980,Zaroon,Ahmed,AB+,19,47kg,male,no,no,no,no
+m302,Rida,Ansari,O-,58,57kg,female,no,no,no,no
+m543,Aniqa,Naeem,O+,47,61kg,female,no,no,no,no
+m092,Ahmed,Arsalan,A+,69,70kg,male,no,no,no,no
+m771,Rafay,Khan,A-,24,43kg,male,no,no,no,no
+m235,Anusha ,Rasheed,O-,34,52kg,female,no,no,no,no
+m987,Hammad,Abdullah,B+,80,60kg,male,no,no,no,no
